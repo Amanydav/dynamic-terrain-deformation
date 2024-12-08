@@ -25,7 +25,8 @@ Follow these steps to set up, install dependencies, and run the project:
 # Start the Development Server:
     npm run dev
 
-
+### Live Demo
+https://dynamic-terrain.netlify.app/
 
 ### How to Add This File to GitHub:
 1. **Save the Content**:
